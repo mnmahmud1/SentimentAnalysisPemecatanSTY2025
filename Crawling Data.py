@@ -5,7 +5,7 @@ import csv
 import os
 
 # Konfigurasi API
-API_KEY = "AIzaSyAmJ9bUmdkQdBV7L3wjg2VuWaSwDFN5mIc"
+API_KEY = "YOUR-GOOGLE-API"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
